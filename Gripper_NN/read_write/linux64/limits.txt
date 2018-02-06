@@ -1,0 +1,2 @@
+ID1(yaw) min 178 max 837
+ID2(pitch1) min 177 max 841
